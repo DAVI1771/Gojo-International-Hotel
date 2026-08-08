@@ -1,22 +1,27 @@
 # Gojo International Hotel
 
-A modern, responsive landing page for Gojo International Hotel built with **React + TypeScript + Vite + Tailwind CSS**.
+A modern, luxurious single-page website for Gojo International Hotel built with **Vite + React + TypeScript + Tailwind CSS**.
+
+## Features
+
+- Fully responsive design
+- Smooth scroll navigation
+- Framer Motion animations
+- Luxury navy + gold color palette
+- Contact form with validation
+- SEO-friendly structure
 
 ## Getting Started
 
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
-2. Run development server:
-   ```bash
-   npm run dev
-   ```
-3. Build for production:
-   ```bash
-   npm run build
-   ```
-4. Preview production build:
-   ```bash
-   npm run preview
-   ```
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
